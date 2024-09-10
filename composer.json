@@ -1,0 +1,15 @@
+{
+    "name": "yasilvalmeida/madr",
+    "description": "MAPDR website",
+    "type": "project",
+    "require": {
+        "gumlet/php-image-resize": "^2.0"
+    },
+    "license": "GNU",
+    "authors": [
+        {
+            "name": "Yasser Almeida",
+            "email": "yasilvalmeida@hotmail.com"
+        }
+    ]
+}
