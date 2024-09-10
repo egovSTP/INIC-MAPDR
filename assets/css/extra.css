@@ -1,0 +1,22 @@
+/*--------------------------------------------------------------
+# Extra Made Style
+--------------------------------------------------------------*/
+
+.document-icon a img {
+  width: 60px !important;
+  height: 60px !important;
+  display: block;
+  margin: auto;
+}
+
+.loader {
+  width: 100px; 
+  height: 100px;
+}
+
+.member-list {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
